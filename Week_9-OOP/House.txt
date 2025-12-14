@@ -1,0 +1,6 @@
+project
+foundation / basement
+walls
+
+class are known as blueprint
+object known as instance or function
